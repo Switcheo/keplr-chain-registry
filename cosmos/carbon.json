@@ -165,9 +165,9 @@
       "coinDecimals": 18,
       "coinGeckoId": "binancecoin",
       "gasPriceStep": {
-        "low": 33333333.333333332,
-        "average": 33333333.333333332,
-        "high": 33333333.333333332
+        "low": 33333333.33333334,
+        "average": 33333333.33333334,
+        "high": 33333333.33333334
       }
     },
     {
@@ -315,9 +315,9 @@
       "coinDecimals": 18,
       "coinGeckoId": "stride-staked-injective",
       "gasPriceStep": {
-        "low": 66666666.666666664,
-        "average": 66666666.666666664,
-        "high": 66666666.666666664
+        "low": 66666666.66666667,
+        "average": 66666666.66666667,
+        "high": 66666666.66666667
       }
     },
     {
